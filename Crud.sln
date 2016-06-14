@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.Web", "Crud.Web\Crud.Web.csproj", "{722D4000-A053-42B9-802C-62882552D9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.Web.Tests", "Crud.Web.Tests\Crud.Web.Tests.csproj", "{283F248C-EAB3-4620-9A53-DCCD4CA2033A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722D4000-A053-42B9-802C-62882552D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722D4000-A053-42B9-802C-62882552D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722D4000-A053-42B9-802C-62882552D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722D4000-A053-42B9-802C-62882552D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283F248C-EAB3-4620-9A53-DCCD4CA2033A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283F248C-EAB3-4620-9A53-DCCD4CA2033A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283F248C-EAB3-4620-9A53-DCCD4CA2033A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283F248C-EAB3-4620-9A53-DCCD4CA2033A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
